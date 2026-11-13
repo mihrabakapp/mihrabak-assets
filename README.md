@@ -32,3 +32,10 @@ The fonts are the property of the King Fahd Glorious Quran Printing Complex. The
 التطبيق يحمّل كل ملف من رابط مثبّت على إصدار محدد من هذا المستودع، مثل:
 `https://raw.githubusercontent.com/mihrabakapp/mihrabak-assets/<commit>/quran/fonts/v2/QCF2001.ttf`
 فلا يتغير ما يعرضه التطبيق حتى لو عُدّل المستودع لاحقاً.
+
+## The 1405 AH print (old Madinah Mushaf)
+
+`quran/fonts/v1/QCF_P001.TTF` … `QCF_P604.TTF`: the King Fahd Complex's first-edition page fonts
+(QCF V1), byte-for-byte copies from github.com/nuqayah/qpc-fonts (mushaf/, commit 8a4f39d5). The
+page layout comes from github.com/quran/quran.com-images (sql/02-database.sql); see the app's
+tools/build_quran_1405.py.
