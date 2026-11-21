@@ -39,3 +39,13 @@ The fonts are the property of the King Fahd Glorious Quran Printing Complex. The
 (QCF V1), byte-for-byte copies from github.com/nuqayah/qpc-fonts (mushaf/, commit 8a4f39d5). The
 page layout comes from github.com/quran/quran.com-images (sql/02-database.sql); see the app's
 tools/build_quran_1405.py.
+
+## quran/fonts/v4 و quran/fonts/warsh — طبعة 1441 ورواية ورش
+
+| | |
+|---|---|
+| ما هي | خطوط صفحات مصحف المدينة النبوية من المجمع، الإصدار الرابع (QCF4): `QCF4_Hafs_01_W` … `47_W` لرواية حفص (طبعة 1441)، و`QCF4_Warsh_01_W` … `50_W` لرواية ورش عن نافع |
+| المصدر | برنامج المجمع «ناشر المصحف» Mushaf Publisher 3.16 المنشور على qurancomplex.gov.sa، مجلد Fonts Folder، كما هي دون تعديل. خطوط حفص مطابقة بايتاً ببايت للنسخة التي كان التطبيق يقرؤها من github.com/nuqayah/qpc-fonts |
+| الإذن | موافقة المجمع المكتوبة (الاتصالات الإدارية، 18 نوفمبر 2026) على الاستفادة من إصداراته الإلكترونية المنشورة على موقعه، بشرط عدم التعديل، وحفظ حقوقه، ونسبة الخط إليه |
+
+الخط المستخدم: مجمع الملك فهد لطباعة المصحف الشريف بالمدينة المنورة.
